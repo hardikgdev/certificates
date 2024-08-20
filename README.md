@@ -7,6 +7,10 @@ This Next.js project, hosted on a Virtual Machine at [https://bytefiesta.com](ht
 
 To start, the development server can be run using npm, yarn, pnpm, or bun, depending on your preference. Once the server is running, the website can be accessed locally by opening [http://localhost:3000](http://localhost:3000) in your browser.
 
+### Install Packages
+```bash
+npm i
+```
 ```bash
 npm run dev
 # or
