@@ -1,11 +1,11 @@
 # ⚠️ Project is in development
 ## Information
 
-This Next.js project, hosted on a Virtual Machine at bytefiesta.com, is designed to educate students in technology by offering a variety of resources including certificates and swags.
+This Next.js project, hosted on a Virtual Machine at (https://bytefiesta.com)[https://bytefiesta.com], is designed to educate students in technology by offering a variety of resources including certificates and swags.
 
 ## Getting Started
 
-To start, the development server can be run using npm, yarn, pnpm, or bun, depending on your preference. Once the server is running, the website can be accessed locally by opening http://localhost:3000 in your browser.
+To start, the development server can be run using npm, yarn, pnpm, or bun, depending on your preference. Once the server is running, the website can be accessed locally by opening (http://localhost:3000)[http://localhost:3000] in your browser.
 
 ```bash
 npm run dev
